@@ -11,7 +11,7 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="110dp"
-        app:srcCompat="@drawable/csu_monterey_bay_logo" />
+        app:srcCompat="@drawable/csumb_logo_1" />
 
     <EditText
         android:id="@+id/etNumber"
@@ -34,10 +34,14 @@
         android:layout_marginRight="15dp"
         android:text="@string/search" />
 
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="400dp" />
+
     <TextView
         android:id="@+id/txDescript"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="100dp"
         android:text="TextView"
         tools:visibility="invisible" />
 </LinearLayout>
