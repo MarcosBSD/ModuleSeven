@@ -1,5 +1,21 @@
 <resources>
-    <string name="app_name">Module Seven</string>
-    <string name="classNumber">Class Number</string>
-    <string name="search">Search</string>
+   <string name="app_name">Module Seven</string>
+   <string name="classNumber">Class Number</string>
+   <string name="search">Search</string>
+   <string name="name300">Major ProSeminar</string>
+   <string name="desc300">Helps students identify and articulate personal,
+       professional, and social goals. Provides an integrated overview of the
+       computer science and communication design majors and their requirements.
+       Students develop a plan for their learning goals. Students learn
+       writing, presentation, research and critical-thinking skills within the
+       diversified fields of information technology and communication design.
+       Students learn how to analyze, predict, and articulate trends in the
+       academic, public service,</string>
+   <string name="name338">Major Pro Seminar</string>
+   <string name="desc338">Provides students with the fundamental concepts to
+       develop large-scale software, focusing on the object-oriented
+       programming techniques. Coverage includes the introduction to Java
+       programming language, object-oriented programming, software life cycle
+       and development processes, requirements analysis, and graphical user
+       interface development.</string>
 </resources>

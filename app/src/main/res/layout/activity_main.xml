@@ -35,8 +35,9 @@
         android:text="@string/search" />
 
     <ListView
-        android:layout_width="match_parent"
-        android:layout_height="400dp" />
+       android:id="@+id/lvCourses"
+       android:layout_width="match_parent"
+       android:layout_height="400dp" />
 
     <TextView
         android:id="@+id/txDescript"
